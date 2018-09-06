@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App__header {
+  padding: 20px;
+}
+
+.App__title {
+  font-size: 1.5em;
+}
+
+.input__button__previous {
+  background: aliceblue;
+  padding: 10px;
+}
+
+.input__button_next {
+  background: #ffab2f;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.input__group {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.output__answer {
+  font-size: 1rem;
+  color: #797979;
+}
+
+footer {
+  padding: 10px 0;
+}

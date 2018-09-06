@@ -1,0 +1,22 @@
+.form__title {
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.mandatory {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+.mandatory__symbol {
+    color: #ff0000;
+}
+
+.input__answer {
+    border: 1px solid #eeeeee;
+}
+
+.input__answer textarea {
+    width: 250px;
+}
